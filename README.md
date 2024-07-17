@@ -5,6 +5,9 @@
 <!--START_SECTION:SUBTITLE-->
 ### <p align = left>I am passionate about Data Science and analytics from Sri Lanka.</p>
 <!--END_SECTION:SUBTITLE-->
+<div align = "center">
+    <img src = "https://github.com/KavinduDisnaka/KavinduDisnaka/blob/main/9ddd0a95-2705-4518-9c38-a4f8471f4441.png?raw=true" alt = "KavinduDisnaka"/> 
+</div>
 
 <!--START_SECTION:WORK-->
 ***<p align = left>🔭 I'm currently working on </p>***
