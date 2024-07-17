@@ -24,34 +24,28 @@
 <!--END_SECTION:WORK-->
 
 ### GitHub Statistics:
-
-<!--START_SECTION:TITLE-->
-# <p align = left>Hi , I'm K.A.K. Disnaka&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "KavinduDisnaka" width="35"></p>
-<!--END_SECTION:TITLE-->
-
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "left">
     <img src = "https://komarev.com/ghpvc/?username=KavinduDisnaka&color=blue&style=for-the-badge" alt = "KavinduDisnaka"/> 
 </div>
-<!--END_SECTION:PROFILE-VIEWS--><br/>
-
-<!--START_SECTION:README-STATS-->
-<div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=KavinduDisnaka&show_icons=true&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" alt = "KavinduDisnaka"/> 
+<div align="center">
+    <table>
+        <tr>
+            <td align="right">
+                <img src = "https://github-readme-stats.vercel.app/api?username=KavinduDisnaka&show_icons=true&theme=darcula&hide_border=false&include_all_commits=false&count_private=false" alt = "KavinduDisnaka"/>
+            </td>
+            <td rowspan="2">
+                 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDisnaka&langs_count=8&theme=darcula&hide_border=false" alt = "KavinduDisnaka"/> 
+            </td>
+        </tr>
+        <tr>
+            <td>
+               <img src = "https://streak-stats.demolab.com/?user=KavinduDisnaka&theme=dracula&hide_border=false" alt = "KavinduDisnaka"/> 
+            </td>
+        </tr>
+    </table>
 </div>
-<!--END_SECTION:README-STATS--><br/>
-
-<!--START_SECTION:README-STATS-LANGUAGES-->
-<div align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDisnaka&langs_count=8&theme=darcula&hide_border=false" alt = "KavinduDisnaka"/> 
-</div>
-<!--END_SECTION:README-STATS-LANGUAGES--><br/>
-
-<!--START_SECTION:STREAK-STATS-->
-<div align = "center">
-    <img src = "https://streak-stats.demolab.com/?user=KavinduDisnaka&theme=dracula&hide_border=false" alt = "KavinduDisnaka"/> 
-</div>
-<!--END_SECTION:STREAK-STATS--><br/>
+<br/>
 
 
 <!-- Created with CreateME profile readme generator-->
