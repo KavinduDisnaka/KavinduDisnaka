@@ -1,5 +1,5 @@
 <!--START_SECTION:TITLE-->
-# <p align = left>Hi , I'm Kavindu DisnakaDisnaka&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "KavinduDisnaka" width="35"></p>
+# <p align = left>Hi , I'm Kavindu Disnaka&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "KavinduDisnaka" width="35"></p>
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
