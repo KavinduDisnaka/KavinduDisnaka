@@ -13,21 +13,19 @@
 
 ***<p align = left>🌱 I'm learning Python, Machine Learning, Power BI, and Other Data Science Tools. </p>***
 
-***<p align = left>📫 How to reach me </p>***
+***<p align = left>📫 How to reach me: </p>***
+<div align="center">
+    <a href="https://www.facebook.com/profile.php?id=61553150994051&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-Kavindu%20M%20Wanniarachchi-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+   <br>
+    <a href="www.linkedin.com/in/kavindu-disnaka-b022a8212"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20M%20Wanniarachchi-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+   
+</div>
 
 <!--END_SECTION:WORK-->
 
-<!--START_SECTION:SKILL-->
-## <p align = left> 🖥️ 	Tech Stack </p>
-<div align = left>
-</div>
-<!--END_SECTION:SKILL--><br/>
 
-<!--START_SECTION:SOCIAL-->
-## <p align = left> 🌏 	Connect with me </p>
-<div align = left>
-</div>
-<!--END_SECTION:SOCIAL--><br/>
+
+
 
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "center">
