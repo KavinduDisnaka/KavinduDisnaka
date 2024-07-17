@@ -23,33 +23,31 @@
 
 <!--END_SECTION:WORK-->
 
+### GitHub Statistics:
 
+<div align="center">
+    <table>
+        <tr>
+            <td align="right">
+                <img src="https://github-readme-stats.vercel.app/api?username=KavinduDisnaka&theme=yellow-red&hide_border=false&include_all_commits=false&count_private=false" alt="KavinduDisnaka" />
+            </td>
+            <td rowspan="2">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDisnaka&theme=yellow-red&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="KavinduDisnaka" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduDisnaka&theme=yellow-red&hide_border=false" alt="KavinduDisnaka" />
+            </td>
+        </tr>
+    </table>
+</div>
 
 
 
 <!--START_SECTION:PROFILE-VIEWS-->
-<div align = "center">
-    <img src = "https://komarev.com/ghpvc/?username=KavinduDisnaka&color=blue&style=flat" alt = "KavinduDisnaka"/> 
-</div>
+![Profile Views](https://github-vistors-counter.onrender.com/github?username=KavinduDisnaka)
 <!--END_SECTION:PROFILE-VIEWS--><br/>
-
-<!--START_SECTION:README-STATS-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=KavinduDisnaka&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt = "KavinduDisnaka"/> 
-</div>
-<!--END_SECTION:README-STATS--><br/>
-
-<!--START_SECTION:README-STATS-LANGUAGES-->
-<div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduDisnaka&langs_count=8&theme=default&hide_border=false" alt = "KavinduDisnaka"/> 
-</div>
-<!--END_SECTION:README-STATS-LANGUAGES--><br/>
-
-<!--START_SECTION:PROFILE-TROPHY-->
-<div align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=KavinduDisnaka&theme=flat&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "KavinduDisnaka"/> 
-</div>
-<!--END_SECTION:PROFILE-TROPHY--><br/>
 
 
 <!-- Created with CreateME profile readme generator-->
