@@ -15,9 +15,9 @@
 
 ***<p align = left>📫 How to reach me: </p>***
 <div align="center">
-    <a href="https://www.facebook.com/profile.php?id=61553150994051&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-Kavindu%20M%20Wanniarachchi-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://www.facebook.com/profile.php?id=61553150994051&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-Kavindu%20Disnaka-%231877F2?style=flat&logo=facebook&logoColor=white" alt="KavinduDisnaka"/></a>&nbsp; &nbsp;
    <br>
-    <a href="www.linkedin.com/in/kavindu-disnaka-b022a8212"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20M%20Disnaka-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="www.linkedin.com/in/kavindu-disnaka-b022a8212"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20Disnaka-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="KavinduDisnaka"/></a>&nbsp; &nbsp;
    
 </div>
 
