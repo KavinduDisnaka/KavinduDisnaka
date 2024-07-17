@@ -11,13 +11,10 @@
 
 <!--START_SECTION:WORK-->
 
-***<p align = left>🌱 I'm learning Python, Power BI, and Other Data Science Tools. </p>***
-***<p align = left>💬 Ask me about </p>***
+***<p align = left>🌱 I'm learning Python, Machine Learning, Power BI, and Other Data Science Tools. </p>***
+
 ***<p align = left>📫 How to reach me </p>***
-***<p align = left>👨‍💻 All of my projects are available at </p>***
-***<p align = left>📝 I regularly write articles on </p>***
-***<p align = left>📄 Know about my experiences </p>***
-***<p align = left>⚡ Fun fact </p>***
+
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
