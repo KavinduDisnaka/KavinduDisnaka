@@ -10,10 +10,8 @@
 </div>
 
 <!--START_SECTION:WORK-->
-***<p align = left>🔭 I'm currently working on </p>***
-***<p align = left>👯 I'm looking to collaborate on </p>***
-***<p align = left>🤝 I'm looking for help with </p>***
-***<p align = left>🌱 I'm currently learning </p>***
+
+***<p align = left>🌱 I'm learning Python, Power BI, and Other Data Science Tools. </p>***
 ***<p align = left>💬 Ask me about </p>***
 ***<p align = left>📫 How to reach me </p>***
 ***<p align = left>👨‍💻 All of my projects are available at </p>***
