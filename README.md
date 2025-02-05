@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
-### <p align = left>I am passionate about Data Science and Analytics from Sri Lanka.</p>
+### <p align = left>I am passionate about AI/ML, Data Science and Analytics from Sri Lanka.</p>
 <!--END_SECTION:SUBTITLE-->
 <div align = "center">
     <img src = "https://github.com/KavinduDisnaka/KavinduDisnaka/blob/main/9ddd0a95-2705-4518-9c38-a4f8471f4441.png?raw=true" alt = "KavinduDisnaka"/> 
